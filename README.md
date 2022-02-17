@@ -1,4 +1,4 @@
-A Application for CDN with Github Repository
+A Template for Making Electron apps in angular (Boiler plate)
 
 
 
